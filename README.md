@@ -1,1 +1,2 @@
-### Desenvolvedor From Zero To Hero Exercise List
+# Desenvolvedor From Zero To Hero Exercise List
+- Comandos Sequenciais
